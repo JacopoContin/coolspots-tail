@@ -4,8 +4,10 @@ import { Button, Pane} from 'evergreen-ui'
 import Cities from '../components/cities';
 import Spots from '../components/spots';
 
+
 export default function Home() {
   return (
+    <div class="bg-white dark:bg-gray-800 md:container md:mx-auto">
     <Pane
     position="absolute" top={0} left={0} right={0} display="block" align="center" margin="auto">
       <Head>
@@ -18,5 +20,6 @@ export default function Home() {
       <Button appearance="primary">Search</Button>
       <Spots/>
       </Pane>
+      </div>
   )
 }
