@@ -3,7 +3,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 ## Getting Started
 
 First, 
-
+```bash
 git clone 
 
 cd directory
@@ -11,8 +11,9 @@ cd directory
 npm install
 
 npm run dev
+```
 
-First, run the development server:
+Or, run the development server:
 
 ```bash
 npm run dev
