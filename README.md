@@ -4,9 +4,9 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 First, 
 ```bash
-git clone 
+git clone https://github.com/JacopoContin/coolspots-tail.git
 
-cd directory
+cd coolspots-tail
 
 npm install
 
